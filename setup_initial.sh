@@ -22,5 +22,5 @@ config config --local status.showUntrackedFiles no
 config branch -m main
 
 # Add the remote repository for dotfiles
-config remote add origin https://github.com/asmundur/dotfiles.git
+config remote add origin git@github.com:asmundur/dotfiles.git
 
