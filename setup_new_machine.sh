@@ -23,3 +23,5 @@ fi
 
 # Configure Git to ignore untracked files
 config config status.showUntrackedFiles no
+
+echo "If nothing else was printed after 'Backing up pre-existing....' then dotfile import was SUCCESSFUL"
